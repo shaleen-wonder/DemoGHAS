@@ -20,7 +20,7 @@ namespace ConsoleAppPWD
             //check if the password is empty or else initialize with "MySecretPassword@11"
             if (string.IsNullOrEmpty(password))
             {
-                password = "MySecretPassword@11";
+                password = "SecretPassword@11";
             }
 
             //create the object of the LoginRequest class
