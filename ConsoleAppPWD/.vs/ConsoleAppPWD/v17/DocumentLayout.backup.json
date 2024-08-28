@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{9E1DF13F-1E82-4AB4-AF54-F410197E1732}|ConsoleAppPWD\\ConsoleAppPWD.csproj|c:\\users\\shaleent\\documents\\github\\ghasconsole\\consoleapppwd\\consoleapppwd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E1DF13F-1E82-4AB4-AF54-F410197E1732}|ConsoleAppPWD\\ConsoleAppPWD.csproj|solutionrelative:consoleapppwd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E1DF13F-1E82-4AB4-AF54-F410197E1732}|ConsoleAppPWD\\ConsoleAppPWD.csproj|c:\\users\\shaleent\\documents\\github\\ghasconsole\\consoleapppwd\\consoleapppwd\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E1DF13F-1E82-4AB4-AF54-F410197E1732}|ConsoleAppPWD\\ConsoleAppPWD.csproj|solutionrelative:consoleapppwd\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,13 +34,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\shaleent\\Documents\\GitHub\\GHASConsole\\ConsoleAppPWD\\ConsoleAppPWD\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "ConsoleAppPWD\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\shaleent\\Documents\\GitHub\\GHASConsole\\ConsoleAppPWD\\ConsoleAppPWD\\LoginRequest.cs",
+              "RelativeToolTip": "ConsoleAppPWD\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T14:52:03.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\shaleent\\Documents\\GitHub\\GHASConsole\\ConsoleAppPWD\\ConsoleAppPWD\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleAppPWD\\Program.cs",
               "ToolTip": "C:\\Users\\shaleent\\Documents\\GitHub\\GHASConsole\\ConsoleAppPWD\\ConsoleAppPWD\\Program.cs",
               "RelativeToolTip": "ConsoleAppPWD\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-28T14:42:26.597Z",
               "EditorCaption": ""

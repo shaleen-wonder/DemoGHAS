@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleAppPWD")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67ad77772ddbef356f64755ef6d77cb5dcaabcf8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e28a326a25c4d85b23ddd7b079f6139593a478c1")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleAppPWD")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleAppPWD")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+C:\Users\shaleent\Documents\GitHub\GHASConsole\ConsoleAppPWD\ConsoleAppPWD\bin\Debug\net8.0\ConsoleAppPWD.exe
+C:\Users\shaleent\Documents\GitHub\GHASConsole\ConsoleAppPWD\ConsoleAppPWD\bin\Debug\net8.0\ConsoleAppPWD.deps.json
+C:\Users\shaleent\Documents\GitHub\GHASConsole\ConsoleAppPWD\ConsoleAppPWD\bin\Debug\net8.0\ConsoleAppPWD.runtimeconfig.json
+C:\Users\shaleent\Documents\GitHub\GHASConsole\ConsoleAppPWD\ConsoleAppPWD\bin\Debug\net8.0\ConsoleAppPWD.dll
+C:\Users\shaleent\Documents\GitHub\GHASConsole\ConsoleAppPWD\ConsoleAppPWD\bin\Debug\net8.0\ConsoleAppPWD.pdb
+C:\Users\shaleent\Documents\GitHub\GHASConsole\ConsoleAppPWD\ConsoleAppPWD\obj\Debug\net8.0\ConsoleAppPWD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shaleent\Documents\GitHub\GHASConsole\ConsoleAppPWD\ConsoleAppPWD\obj\Debug\net8.0\ConsoleAppPWD.AssemblyInfoInputs.cache
+C:\Users\shaleent\Documents\GitHub\GHASConsole\ConsoleAppPWD\ConsoleAppPWD\obj\Debug\net8.0\ConsoleAppPWD.AssemblyInfo.cs
+C:\Users\shaleent\Documents\GitHub\GHASConsole\ConsoleAppPWD\ConsoleAppPWD\obj\Debug\net8.0\ConsoleAppPWD.csproj.CoreCompileInputs.cache
+C:\Users\shaleent\Documents\GitHub\GHASConsole\ConsoleAppPWD\ConsoleAppPWD\obj\Debug\net8.0\ConsoleAppPWD.sourcelink.json
+C:\Users\shaleent\Documents\GitHub\GHASConsole\ConsoleAppPWD\ConsoleAppPWD\obj\Debug\net8.0\ConsoleAppPWD.dll
+C:\Users\shaleent\Documents\GitHub\GHASConsole\ConsoleAppPWD\ConsoleAppPWD\obj\Debug\net8.0\refint\ConsoleAppPWD.dll
+C:\Users\shaleent\Documents\GitHub\GHASConsole\ConsoleAppPWD\ConsoleAppPWD\obj\Debug\net8.0\ConsoleAppPWD.pdb
+C:\Users\shaleent\Documents\GitHub\GHASConsole\ConsoleAppPWD\ConsoleAppPWD\obj\Debug\net8.0\ConsoleAppPWD.genruntimeconfig.cache
+C:\Users\shaleent\Documents\GitHub\GHASConsole\ConsoleAppPWD\ConsoleAppPWD\obj\Debug\net8.0\ref\ConsoleAppPWD.dll
