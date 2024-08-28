@@ -33,7 +33,7 @@ namespace ConsoleAppPWD
         public static void ConnectToAzureSQL()
         {
             // connection string for Azure SQL
-            string connectionString = "Server=tcp:azsqlsrvr.database.windows.net,1433;Initial Catalog=azsqlst;Persist Security Info=False;User ID=your_username;Password=P@ssword@77;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;";
+            string connectionString = "Server=tcp:azsqlsrvr.database.windows.net,1433;Initial Catalog=azsqlst;Persist Security Info=False;User ID=shaleent;Password=P@ssword@77;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;";
 
             try
             {
