@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shaleent\\Documents\\GitHub\\GHASConsole\\ConsoleAppPWD\\ConsoleAppPWD\\ConsoleAppPWD.csproj": {}
+    "c:\\Users\\shaleent\\Documents\\GitHub\\GHASConsole\\ConsoleAppPWD\\ConsoleAppPWD\\ConsoleAppPWD.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shaleent\\Documents\\GitHub\\GHASConsole\\ConsoleAppPWD\\ConsoleAppPWD\\ConsoleAppPWD.csproj": {
+    "c:\\Users\\shaleent\\Documents\\GitHub\\GHASConsole\\ConsoleAppPWD\\ConsoleAppPWD\\ConsoleAppPWD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shaleent\\Documents\\GitHub\\GHASConsole\\ConsoleAppPWD\\ConsoleAppPWD\\ConsoleAppPWD.csproj",
+        "projectUniqueName": "c:\\Users\\shaleent\\Documents\\GitHub\\GHASConsole\\ConsoleAppPWD\\ConsoleAppPWD\\ConsoleAppPWD.csproj",
         "projectName": "ConsoleAppPWD",
-        "projectPath": "C:\\Users\\shaleent\\Documents\\GitHub\\GHASConsole\\ConsoleAppPWD\\ConsoleAppPWD\\ConsoleAppPWD.csproj",
+        "projectPath": "c:\\Users\\shaleent\\Documents\\GitHub\\GHASConsole\\ConsoleAppPWD\\ConsoleAppPWD\\ConsoleAppPWD.csproj",
         "packagesPath": "C:\\Users\\shaleent\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shaleent\\Documents\\GitHub\\GHASConsole\\ConsoleAppPWD\\ConsoleAppPWD\\obj\\",
+        "outputPath": "c:\\Users\\shaleent\\Documents\\GitHub\\GHASConsole\\ConsoleAppPWD\\ConsoleAppPWD\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\shaleent\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +45,18 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "SqlConnection": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.4, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

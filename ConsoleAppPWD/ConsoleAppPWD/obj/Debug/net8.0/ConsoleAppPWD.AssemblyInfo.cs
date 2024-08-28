@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleAppPWD")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8211d01ceb3024e885fe1fd0537178f1ccda894e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+acce4f42f429ddee261d4b0dc809044e5c72f38e")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleAppPWD")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleAppPWD")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
