@@ -1,6 +1,7 @@
 ﻿//create the main class and main method in the Program.cs file
 using System;
 using System.Data.SqlClient; // Add this using directive for SqlConnection
+using System.IO.Compression; // Add this using directive for SqlConnection
 
 namespace ConsoleAppPWD
 {
@@ -27,6 +28,20 @@ namespace ConsoleAppPWD
             LoginRequest loginRequest = new LoginRequest(username ?? string.Empty, password);
             Console.WriteLine("Username: " + loginRequest.Username);
             Console.WriteLine("Password: " + loginRequest.Password);
+
+            //call write to directory method
+            string zipFilePath = @"C:\Users\Public\Documents\sample.zip";
+            ZipArchiveEntry zipArchiveEntry = ZipFile.Open(zipFilePath, ZipArchiveMode.Read).Entries[0];
+            
+            string destDirectory = @"C:\Users\Public\Documents\unzip";
+            WriteToDirectory(zipArchiveEntry, destDirectory);
+        }
+
+
+        public static void WriteToDirectory(ZipArchiveEntry entry, string destDirectory)
+        {
+            string destFileName = Path.Combine(destDirectory, entry.FullName);
+            entry.ExtractToFile(destFileName);
         }
 
 
