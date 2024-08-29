@@ -33,7 +33,7 @@ jobs:
 
     # Restore the application to populate the obj folder with RuntimeIdentifiers
     - name: Restore the application
-      run: msbuild ConsoleAppPWD.sln /t:Restore
+      run: msbuild ConsoleAppPWD/ConsoleAppPWD/ConsoleAppPWD.csproj /t:Restore
       env:
         Configuration: ${{ matrix.configuration }}
 
